@@ -6,7 +6,7 @@ theres 2 metadata type:
 
 ## Installation
 ```
-extract and copy paste global-metadata.dat to com.dts.freefireth/files/il2cpp/Metadata
+extract and copy paste <b>global-metadata.dat</b> to <b>com.dts.freefireth/files/il2cpp/Metadata</b>
 ```
 
 choose what you want to use, enjoy.
